@@ -1,7 +1,8 @@
 
 # 📝 TODO APP in Ruby on Rails
 
-PONER GIF
+![Alt Text](Lista_Tareas.gif)
+
 
 Esta app fue desarrollada para conocer lo escencial del framework MVC de Ruby on Rails. Es un gestor de tareas que cuenta con las siguientes funcionalidades
 
